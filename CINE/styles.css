@@ -1,0 +1,30 @@
+.container_dos {
+    width: 100%;
+  }
+  
+@media (min-width: 425px) {
+    }
+
+@media (max-width: 1240px) {
+    
+  }
+  
+
+
+.titulo {
+    color:white; 
+}
+*{
+    background-color: #000080;
+    color: white;
+}
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container_dos{
+    display: flex;
+    flex-direction: row;
+}
+

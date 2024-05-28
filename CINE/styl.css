@@ -1,0 +1,31 @@
+*{
+    background: #000080;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.descuento{
+    background-color: white;
+}
+
+.container{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+   margin: 25px;
+   /*align-items: center;*/
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    outline: 0;
+}
+
+p.visible{
+    overflow: visible;
+}
